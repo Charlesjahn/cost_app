@@ -1,6 +1,6 @@
-import styles from './SubmitBNT.module.css'
+import styles from './SubmitBTN.module.css'
 
-function SubmitBNT({ text }) {
+function SubmitBTN({ text }) {
 
     return (
         <div >
@@ -9,4 +9,4 @@ function SubmitBNT({ text }) {
     )
 }
 
-export default SubmitBNT
+export default SubmitBTN
