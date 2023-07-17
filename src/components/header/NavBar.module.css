@@ -1,0 +1,25 @@
+.navBar {
+    display: flex;
+    background-color: rgba(2, 19, 35, 1);
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    margin: .5em;
+    padding: .5em;
+    transition: .5s;
+    border-radius: 5%;
+}
+
+.link:hover {
+    color: #ffdd20;
+}
