@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/Charlesjahn.io/cost_app/static/css/main.8b56e75c.css",
+    "main.js": "//github.com/Charlesjahn.io/cost_app/static/js/main.8116af40.js",
+    "static/media/savings.svg": "//github.com/Charlesjahn.io/cost_app/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "//github.com/Charlesjahn.io/cost_app/index.html",
+    "main.8b56e75c.css.map": "//github.com/Charlesjahn.io/cost_app/static/css/main.8b56e75c.css.map",
+    "main.8116af40.js.map": "//github.com/Charlesjahn.io/cost_app/static/js/main.8116af40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b56e75c.css",
+    "static/js/main.8116af40.js"
+  ]
+}
