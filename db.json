@@ -1,0 +1,25 @@
+{
+    "projects":[],
+    "categories":[
+        {
+            "id":1,
+            "name":"Manager Developer"
+        },
+        {
+            "id":2,
+            "name":"Leader Scrum"
+        },
+        {
+            "id":3,
+            "name":"Back-end Developer"
+        },
+        {
+            "id":4,
+            "name":"Front-end Developer"
+        },
+        {
+            "id":5,
+            "name":"Design"
+        }
+    ]
+}
