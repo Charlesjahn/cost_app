@@ -13,7 +13,7 @@ function NavBar() {
 
                 <ul className={styles.list}>
                     <li>
-                        <Link to="/" className={styles.link}>Home</Link>
+                        <Link to="/cost_app" className={styles.link}>Home</Link>
                     </li>
                     <li>
                         <Link to="/company" className={styles.link}>Company</Link>
