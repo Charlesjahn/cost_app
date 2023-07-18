@@ -15,10 +15,6 @@
     margin: 0.5em 1em;
 }
 
-.social_list li:hover {
-    color: #ffdd20;
-}
-
 .social_list svg {
     font-size: 1.5em;
     cursor: pointer;
@@ -26,5 +22,14 @@
 
 .copy_right_span {
     font-weight: bold;
+    color: #ffdd20;
+}
+
+.social_list li a{
+    text-decoration: none;
+    color: white;
+}
+
+.social_list li a:hover {
     color: #ffdd20;
 }

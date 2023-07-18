@@ -1,4 +1,4 @@
-import { FaInstagram, FaLinkedin, FaWhatsapp, FaGithub } from 'react-icons/fa'
+import { FaInstagram, FaLinkedin, FaWhatsapp, FaGithub, FaEnvelope } from 'react-icons/fa'
 
 import styles from './Footer.module.css'
 function Footer() {
@@ -6,16 +6,28 @@ function Footer() {
         <footer className={styles.footer}>
             <ul className={styles.social_list}>
                 <li>
-                    <FaInstagram />
+                    <a href='https://www.instagram.com/cfjahnprojects/'>
+                        <FaInstagram /></a>
                 </li>
                 <li>
-                    <FaLinkedin />
+                    <a href='https://www.linkedin.com/in/charles-franklin-jahn/'>
+                        <FaLinkedin />
+                    </a>
                 </li>
                 <li>
-                    <FaWhatsapp />
+                    <a href='https://wa.me/353834601235'>
+                        <FaWhatsapp />
+                    </a>
                 </li>
                 <li>
-                    <FaGithub />
+                    <a href='https://github.com/Charlesjahn'>
+                        <FaGithub />
+                    </a>
+                </li>
+                <li>
+                    <a href='mailto:charles.jahn@gmail.com?subject=&body='>
+                        <FaEnvelope />
+                    </a>
                 </li>
             </ul>
             <p>
