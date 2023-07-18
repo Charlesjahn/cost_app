@@ -1,25 +1,70 @@
 {
-    "projects":[],
-    "categories":[
-        {
-            "id":1,
-            "name":"Manager Developer"
-        },
-        {
-            "id":2,
-            "name":"Leader Scrum"
-        },
-        {
-            "id":3,
-            "name":"Back-end Developer"
-        },
-        {
-            "id":4,
-            "name":"Front-end Developer"
-        },
-        {
-            "id":5,
-            "name":"Design"
-        }
-    ]
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "12345",
+      "category": {
+        "id": "2",
+        "name": "Manager"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste",
+      "budget": "12345",
+      "category": {
+        "id": "2",
+        "name": "ScrumLeader"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "teste",
+      "budget": "12345",
+      "category": {
+        "id": "2",
+        "name": "BackEnd"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Charles",
+      "budget": "80000",
+      "category": {
+        "id": "4",
+        "name": "FrontEnd"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Manager"
+    },
+    {
+      "id": 2,
+      "name": "ScrumLeader"
+    },
+    {
+      "id": 3,
+      "name": "BackEnd"
+    },
+    {
+      "id": 4,
+      "name": "FrontEnd"
+    },
+    {
+      "id": 5,
+      "name": "Design"
+    }
+  ]
 }
