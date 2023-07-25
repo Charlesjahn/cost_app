@@ -1,15 +1,15 @@
 {
   "projects": [
     {
-      "name": "sd",
-      "budget": "345",
+      "name": "Charles Franklin Jahn",
+      "budget": "5800",
       "category": {
-        "id": "1",
-        "name": "Manager"
+        "id": "3",
+        "name": "BackEnd"
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 2
     }
   ],
   "categories": [
