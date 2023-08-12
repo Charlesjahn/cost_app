@@ -16,7 +16,7 @@ function NavBar() {
                         <Link to="/cost_app" className={styles.link}>Home</Link>
                     </li>
                     <li>
-                        <Link to="/company" className={styles.link}>Company</Link>
+                        <Link to="https://charlesjahn.github.io/my-web-page/" className={styles.link}>Company</Link>
                     </li>
                     <li>
                         <Link to="/contact" className={styles.link}>Contact</Link>
